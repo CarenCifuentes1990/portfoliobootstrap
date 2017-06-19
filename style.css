@@ -1,0 +1,49 @@
+.co1{
+	background: #2B3A4D;
+}
+p,span{
+	color:#fff;
+
+}
+.c2{
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.co2{
+	background: #13BDA0;
+	text-align: center;
+}
+.blanco{
+	color: #fff;
+}
+.c3{
+	margin-top: 90px;
+	margin-bottom: 90px;
+}
+.co3{
+	background: : #F5FFF8;
+}
+.azul{
+	color: #2B3A4D;
+}
+.c4{
+	margin-top: 90px;
+	margin-bottom: 90px;
+}	
+.co5{
+	background: #13BDA0;
+	text-align: center;
+}
+.boton{
+	width:200px;
+	height:50px;
+	background:#13BDA0; 
+	margin:0 auto;
+	border-radius: 5px;
+	box-shadow: 2px 5px 2px #fff;
+	border-color: #fff;
+}
+.c6{
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
